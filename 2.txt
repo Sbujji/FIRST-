@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=mMZb52V2Rds  - Auto scalling
+
+https://www.edureka.co/blog/interview-questions/docker-interview-questions/
+
+https://aws.amazon.com/cloudwatch/ -  cloudwatch
+
+https://cloudonaut.io/jenkins-templates-for-aws-cloudformation/ 
